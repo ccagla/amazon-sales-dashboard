@@ -1,11 +1,4 @@
 
-# Amazon Sales Dashboard (Business Analyst Case Study)
-
-## 📌 Project Overview
-This project simulates a **Business Analyst role** by turning raw e-commerce sales data into insights.  
-The main goal was to clean and prepare Amazon sales data, design KPIs, and create a professional dashboard for sales managers.
-
----
 
 ## 🛠️ Business Problem & Solution
 **Problem:**  
@@ -29,13 +22,6 @@ This led to **delayed decision-making** and poor visibility of sales health.
 📷 **Dashboard Screenshot**  
 ![Dashboard](./screenshots/kpi_overview.png)
 ![Dashboard](./screenshots/regional_analysis.png)
-
----
-
-## 📂 Documentation
-- [Case Study](./docs/case_study.md)  
-- [Sprint Plan](./docs/sprint_plan.md)  
-- [Acceptance Criteria](./docs/acceptance_criteria.md)
 
 ---
 
