@@ -28,7 +28,7 @@ This led to **delayed decision-making** and poor visibility of sales health.
 ## 🚀 Tools Used
 - Power Query  
 - Power BI  
-- Agile Framework (User Stories, Acceptance Criteria, Sprint Planning)
+
 
 ---
 
